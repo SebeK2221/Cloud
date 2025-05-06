@@ -1,0 +1,54 @@
+﻿@* Strona z listą komentarzy (np. KomentarzeList.razor) *@
+@page "/komentarze"
+
+@rendermode InteractiveServer
+
+@using ChmuryProj.Api.Entity
+@using System.Net.Http
+
+@inject HttpClient Http
+
+<PageTitle>Komentarze</PageTitle>
+
+<h3>Lista komentarzy</h3>
+
+@if (komentarze == null)
+{
+    <p>Ładowanie...</p>
+}
+else if (!komentarze.Any())
+{
+    <p>Brak komentarzy</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Autor</th>
+                <th>Treść</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var komentarz in komentarze)
+            {
+                <tr>
+                    <td>@komentarz.Name</td>
+                    <td>@komentarz.Message</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a href="/dodaj-komentarz" class="btn btn-primary">Dodaj nowy komentarz</a>
+
+@code {
+    private List<KomentarzEntity> komentarze = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await Http.GetFromJsonAsync<List<KomentarzEntity>>("https://chmuryprojapi20250406210134.azurewebsites.net/api/Komentarze");
+        komentarze = response ?? new();
+    }
+}

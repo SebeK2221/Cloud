@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ChmuryProj.Api.Controllers.KomentarzeController",
+    "Method": "GetKomentarze",
+    "RelativePath": "api/Komentarze/dx",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ChmuryProj.Api.Entity.KomentarzEntity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ChmuryProj.Api.Controllers.KomentarzeController",
+    "Method": "AddKomentarz",
+    "RelativePath": "api/Komentarze/xd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "komentarz",
+        "Type": "ChmuryProj.Api.Controllers.KomentarzeController\u002BKomentarzPost",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

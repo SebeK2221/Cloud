@@ -1,0 +1,55 @@
+﻿@page "/dodaj-komentarz"
+
+@rendermode InteractiveServer
+
+@using static ChmuryProj.Api.Controllers.KomentarzeController
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+
+<PageTitle>Dodaj komentarz</PageTitle>
+<h3>Dodaj nowy komentarz</h3>
+<EditForm Model="@newKomentarz" OnValidSubmit="@HandleSubmit" FormName="AddCommentForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+
+    <div class="form-group">
+        <label>Imię/Nick:</label>
+        <InputText @bind-Value="newKomentarz.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Treść komentarza:</label>
+        <InputTextArea @bind-Value="newKomentarz.Message" class="form-control" rows="4" />
+    </div>
+    <button type="submit" class="btn btn-success mt-3">Dodaj komentarz</button>
+    <a href="/komentarze" class="btn btn-secondary mt-3">Anuluj</a>
+</EditForm>
+
+@code {
+    private KomentarzPost newKomentarz = new();
+
+
+    private async Task HandleSubmit()
+    {
+
+
+        try
+        {
+            var response = await Http.PostAsJsonAsync("https://chmuryprojapi20250406210134.azurewebsites.net/api/Komentarze/xd", newKomentarz);
+            if (response.IsSuccessStatusCode)
+            {
+                Navigation.NavigateTo("/komentarze");
+            }
+            else
+            {
+                var error = await response.Content.ReadAsStringAsync();
+                Console.WriteLine($"Błąd API: {error}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Błąd: {ex}");
+        }
+    }
+}

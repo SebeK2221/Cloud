@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jcob\\Desktop\\Chmury\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\controllers\\komentarzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\controllers\\komentarzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\components\\pages\\dodajkomentarz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\dodajkomentarz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\components\\pages\\listakomentarzy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\listakomentarzy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\chmuryproj.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\chmuryproj.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\appsettings.json",
+              "RelativeToolTip": "ChmuryProj.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T19:34:48.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Program.cs",
+              "RelativeToolTip": "ChmuryProj.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:19:47.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KomentarzeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:18:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ChmuryProj.Web\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:18:25.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChmuryProj.Api.http",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\ChmuryProj.Api.http",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\ChmuryProj.Api.http",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\ChmuryProj.Api.http",
+              "RelativeToolTip": "ChmuryProj.Api\\ChmuryProj.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T19:05:58.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\appsettings.json",
+              "RelativeToolTip": "ChmuryProj.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T18:41:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaKomentarzy.razor",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
+              "RelativeToolTip": "ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:34:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DodajKomentarz.razor",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
+              "RelativeToolTip": "ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:33:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Program.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:00:53.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
