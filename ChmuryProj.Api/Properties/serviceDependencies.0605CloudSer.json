@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/0605CloudSer/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsAzureSqlConnection_75CC68981C",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/najlepszyserwerdb/databases/ChmuryProj.Api_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:AzureSqlConnection",
+      "dynamicId": null
+    }
+  }
+}

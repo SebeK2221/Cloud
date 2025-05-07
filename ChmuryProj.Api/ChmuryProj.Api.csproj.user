@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\Jcob\Desktop\Chmury\ChmuryProj.Api\Properties\PublishProfiles\ChmuryProjApi20250406210134 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\sebcw\Documents\GitHub\Cloud\Cloud\.github\workflows\0605CloudSer.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

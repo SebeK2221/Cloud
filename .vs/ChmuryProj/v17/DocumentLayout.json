@@ -1,41 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jcob\\Desktop\\Chmury\\",
+  "WorkspaceRootPath": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\controllers\\komentarzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\controllers\\komentarzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\.github\\workflows\\0605CloudSer.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\0605CloudSer.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\migrations\\20250406121253_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\migrations\\20250406121253_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\components\\pages\\dodajkomentarz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\dodajkomentarz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\components\\pages\\listakomentarzy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\listakomentarzy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.api\\chmuryproj.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\chmuryproj.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\chmuryproj.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\jcob\\desktop\\chmury\\chmuryproj.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\entity\\komentarz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\entity\\komentarz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\controllers\\komentarzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\controllers\\komentarzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.api\\chmuryproj.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCD1D75E-0BE5-4B67-9E5D-86BDE1EF1629}|ChmuryProj.Api\\ChmuryProj.Api.csproj|solutionrelative:chmuryproj.api\\chmuryproj.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.web\\components\\pages\\dodajkomentarz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\dodajkomentarz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.web\\components\\pages\\listakomentarzy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\listakomentarzy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|c:\\users\\sebcw\\documents\\github\\cloud\\cloud\\chmuryproj.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B713F87-F6EC-4B0B-89EC-C416769F6324}|ChmuryProj.Web\\ChmuryProj.Web.csproj|solutionrelative:chmuryproj.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,41 +78,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0605CloudSer.yml",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\.github\\workflows\\0605CloudSer.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\0605CloudSer.yml",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\.github\\workflows\\0605CloudSer.yml",
+              "RelativeToolTip": ".github\\workflows\\0605CloudSer.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-06T10:44:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "ChmuryProj.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\appsettings.json",
-              "RelativeToolTip": "ChmuryProj.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "dotnet",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\dotnet",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\dotnet",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\dotnet",
+              "RelativeToolTip": "ChmuryProj.Api\\dotnet",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-06T10:39:32.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChmuryProj.Api.http",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\ChmuryProj.Api.http",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\ChmuryProj.Api.http",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\ChmuryProj.Api.http",
+              "RelativeToolTip": "ChmuryProj.Api\\ChmuryProj.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-06T19:05:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250406121253_init.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Migrations\\20250406121253_init.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\Migrations\\20250406121253_init.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Migrations\\20250406121253_init.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\Migrations\\20250406121253_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:35:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Program.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:00:53.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\appsettings.Development.json",
+              "RelativeToolTip": "ChmuryProj.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-06T19:34:48.955Z"
+              "WhenOpened": "2025-05-06T10:34:45.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ChmuryProj.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Program.cs",
-              "RelativeToolTip": "ChmuryProj.Web\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "Komentarz.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Entity\\Komentarz.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\Entity\\Komentarz.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Entity\\Komentarz.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\Entity\\Komentarz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:19:47.546Z"
+              "WhenOpened": "2025-05-06T10:38:42.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "KomentarzeController.cs",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
               "RelativeDocumentMoniker": "ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
               "RelativeToolTip": "ChmuryProj.Api\\Controllers\\KomentarzeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T19:18:36.464Z",
               "EditorCaption": ""
@@ -88,10 +187,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:02:00.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ChmuryProj.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:35:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ChmuryProj.Web\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "ChmuryProj.Web\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,36 +224,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ChmuryProj.Api.http",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\ChmuryProj.Api.http",
-              "RelativeDocumentMoniker": "ChmuryProj.Api\\ChmuryProj.Api.http",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\ChmuryProj.Api.http",
-              "RelativeToolTip": "ChmuryProj.Api\\ChmuryProj.Api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-06T19:05:58.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\appsettings.json",
               "RelativeDocumentMoniker": "ChmuryProj.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\appsettings.json",
               "RelativeToolTip": "ChmuryProj.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-06T18:41:43.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "ChmuryProj.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\ChmuryProj.Api.csproj",
+              "RelativeDocumentMoniker": "ChmuryProj.Api\\ChmuryProj.Api.csproj",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Api\\ChmuryProj.Api.csproj",
+              "RelativeToolTip": "ChmuryProj.Api\\ChmuryProj.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T08:02:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ListaKomentarzy.razor",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
               "RelativeDocumentMoniker": "ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
               "RelativeToolTip": "ChmuryProj.Web\\Components\\Pages\\ListaKomentarzy.razor",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -136,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "DodajKomentarz.razor",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
               "RelativeDocumentMoniker": "ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
               "RelativeToolTip": "ChmuryProj.Web\\Components\\Pages\\DodajKomentarz.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -148,16 +273,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ChmuryProj.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Jcob\\Desktop\\Chmury\\ChmuryProj.Api\\Program.cs",
-              "RelativeToolTip": "ChmuryProj.Api\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\Program.cs",
+              "RelativeToolTip": "ChmuryProj.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:00:53.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:19:47.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ChmuryProj.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Cloud\\Cloud\\ChmuryProj.Web\\appsettings.json",
+              "RelativeToolTip": "ChmuryProj.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T19:34:48.955Z"
             }
           ]
         }
